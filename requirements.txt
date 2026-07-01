@@ -1,0 +1,14 @@
+# Dependencias do baseline classico (CPU) - reproduzivel localmente.
+# Para o BERTimbau (scripts/bertimbau_kaggle.py) use o ambiente do Kaggle com
+# GPU, que ja inclui torch e transformers.
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+nltk==3.9.4
+matplotlib==3.10.9
+seaborn==0.13.2
+Unidecode==1.4.0
+joblib==1.5.3
+tqdm==4.68.3
+jupyter
+ipykernel
